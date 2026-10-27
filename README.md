@@ -96,4 +96,4 @@ claude plugin install gta6times@gta6times
 
 ## License
 
-The files in this repository are MIT. The data served by the endpoint follows https://gta6times.com/terms.
+The files in this repository (configuration and documentation) are MIT, see `LICENSE`. The data served by the endpoint follows https://gta6times.com/terms. GTA6 Times is an independent fan site and is not affiliated with Rockstar Games or Take-Two Interactive.
