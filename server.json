@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.gta6times/gta6times",
+  "title": "GTA6 Times",
+  "description": "GTA 6 unlock time and price by country, confirmed facts versus rumors, trailers and labeled news.",
+  "version": "1.1.0",
+  "websiteUrl": "https://gta6times.com/developers",
+  "icons": [
+    {
+      "src": "https://gta6times.com/img/gta6times-logo",
+      "mimeType": "image/png",
+      "sizes": [
+        "1000x1000"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gta6times.com/mcp"
+    }
+  ]
+}

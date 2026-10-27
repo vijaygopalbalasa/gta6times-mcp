@@ -1,0 +1,10 @@
+{
+  "name": "gta6times",
+  "version": "1.1.0",
+  "description": "GTA 6 unlock time and price by country, confirmed facts versus rumors, trailers and labeled news, from gta6times.com.",
+  "mcpServers": {
+    "gta6times": {
+      "httpUrl": "https://gta6times.com/mcp"
+    }
+  }
+}

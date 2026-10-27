@@ -1,0 +1,11 @@
+{
+  "name": "gta6times",
+  "version": "1.1.0",
+  "description": "GTA 6 unlock time and price by country, confirmed facts versus rumors, trailers and labeled news.",
+  "author": {
+    "name": "GTA6 Times",
+    "url": "https://gta6times.com"
+  },
+  "homepage": "https://gta6times.com/developers",
+  "license": "MIT"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "gta6times",
+  "owner": {
+    "name": "GTA6 Times",
+    "email": "hello@gta6times.com"
+  },
+  "metadata": {
+    "description": "Read-only GTA 6 data from gta6times.com: unlock time and price by country, confirmed facts versus rumors, trailers and labeled news."
+  },
+  "plugins": [
+    {
+      "name": "gta6times",
+      "source": "./plugins/gta6times",
+      "description": "GTA 6 unlock time and price by country, confirmed facts versus rumors, trailers and labeled news.",
+      "version": "1.1.0",
+      "homepage": "https://gta6times.com/developers",
+      "license": "MIT",
+      "keywords": [
+        "gta-6",
+        "gaming",
+        "release-date",
+        "prices",
+        "news"
+      ]
+    }
+  ]
+}

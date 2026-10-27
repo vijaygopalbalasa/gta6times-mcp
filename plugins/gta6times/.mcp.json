@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gta6times": {
+      "type": "http",
+      "url": "https://gta6times.com/mcp"
+    }
+  }
+}
