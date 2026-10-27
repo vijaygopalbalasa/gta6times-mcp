@@ -19,5 +19,10 @@
       "type": "streamable-http",
       "url": "https://gta6times.com/mcp"
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/vijaygopalbalasa/gta6times-mcp",
+    "source": "github",
+    "id": "1435204925"
+  }
 }
